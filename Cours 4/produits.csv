@@ -1,0 +1,11 @@
+produit_id;rayon;prix_unitaire_ht;tva
+PRD-100;Outillage;45.0;0.2
+PRD-101;Peinture;29.9;0.2
+PRD-102;Jardin;89.0;0.2
+PRD-103;Électricité;12.5;0.1
+PRD-104;Plomberie;34.0;0.2
+PRD-105;Outillage;110.0;0.2
+PRD-106;Jardin;15.0;0.2
+PRD-107;Décoration;19.9;0.2
+PRD-108;Électricité;8.5;0.1
+PRD-109;Peinture;55.0;0.2
